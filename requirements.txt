@@ -1,0 +1,9 @@
+make sure you use the python supported versions for deep learning [python 3.9 - 3.11]
+
+install all the necessary libraries
+
+Numpy,
+OpenCv,
+Librosa,
+TensorFlow/Keras,
+PyTorch,
