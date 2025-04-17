@@ -1,4 +1,9 @@
 # Track & Trace: Animal species classification based on footprints and sounds
+
+<p align="center">
+  <img src="logo.png" alt="logo" height="250px" width="250px">
+</p>
+
 - This is a GUI based desktop application that combines both the Pre-trained models of animal images and sounds into one tool for wildlife tracking.
 - It is built by using Tkinter in Python. 
 - The app classifies animal species from their footprint images and audio recordings and then displays the animal's image along with info/status as the output. 
